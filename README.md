@@ -33,4 +33,4 @@ Bienvenue sur mon dépôt personnel ! Ce référentiel représente mon profil d'
 
 ---
 
-**organiser son GitHub comme un portfolio technique professionnel**.
+**“Le meilleur moyen de prédire le futur c’est de le créer” - Peter Drucker**.
