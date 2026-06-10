@@ -1,4 +1,4 @@
-# Salut, ici Underscore_
+# Salut !, ici Underscore_
 ### 📁 À propos de ce dépôt
 Bienvenue sur mon dépôt personnel ! Ce référentiel représente mon profil d'étudiante en Génie Logiciel et passionné de technologie . Il sert de point central pour :
 
